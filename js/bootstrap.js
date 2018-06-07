@@ -16,7 +16,7 @@ var store = window.localStorage;
 //var domain = 'ecampus.matrixlms.com';
 //var domain = 'www.cuohde.com';
 //var domain = 'mclaren.medpower.org';
-var domain = 'leap.eastwestbanker.com ';
+var domain = 'leap.eastwestbanker.com';
 
 var domainProtocol = 'http';
 //var domainProtocol = 'https';
